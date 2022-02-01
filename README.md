@@ -1,5 +1,4 @@
 # taskmaster-pro
-# taskmaster-pro
 
 # Description
 This app is a personal task tracker that will allow you to orginize you personal to-do list items by using a dropdown menu to change the task status and move the task into To Do, In Progress, and Completed lists. this app will use local storage, API methods to select and dynamicly generate HTML elements and content, set time based events using time functions.
