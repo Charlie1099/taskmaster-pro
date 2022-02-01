@@ -25,8 +25,4 @@ HTML, CSS, and JavaScript
 Please reach out to cdcharlesworth@gmail.com if you have any questions
 
 # Links
-<<<<<<< HEAD
 Github Repo: https://github.com/Charlie1099/taskmaster-pro
-=======
-Github Repo: https://github.com/Charlie1099/taskmaster-pro
->>>>>>> e80f14670de5322a50b46071e441cb63d522c933
